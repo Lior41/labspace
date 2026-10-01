@@ -12,7 +12,7 @@ A virtual science lab for children and families. Predict, manipulate, compare, e
 
 ## Try it
 
-A public deployment is not claimed until its URL is recorded here and verified. Run locally at `http://localhost:3052` using the instructions below. The in-app **How it works** page explains the implementation and its limits.
+[Open the live LABSPACE demo](https://lior-labspace.vercel.app). Deployed on Vercel Hobby and checked on 2026-10-01. Local startup is documented below. The in-app **How it works** page explains the implementation and its limits.
 
 **Two-minute walkthrough:** Open /explore/motion → choose an age → predict → run or see the result → change one parameter → write an observation → keep the discovery → reopen its settings from the notebook.
 
@@ -87,7 +87,6 @@ Docker configuration is supplied. A Docker build is not claimed as tested unless
 src/app/          Pages and route handlers
 src/components/   Focused interactive UI
 src/lib/          Types, validation and pure domain helpers
-src/server/       Server-only integrations where needed
 tests/            Domain tests and browser journeys
 docs/             Architecture, evidence and learning guides
 .github/          CI configuration
@@ -102,6 +101,7 @@ docs/             Architecture, evidence and learning guides
 
 ## Presentation and learning
 
+- [One-minute captioned video](public/demo/walkthrough-en.mp4) · [Text version](public/demo/walkthrough-en.txt). Real screenshots, edited, no audio.
 - [Reproducible demo](docs/DEMO.md).
 - [French interview and learning guide](docs/INTERVIEW.fr.md).
 - [Credits and rights](docs/CREDITS.md).

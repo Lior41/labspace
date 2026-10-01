@@ -1,7 +1,9 @@
 # Verification record
 
-Local TypeScript, ESLint, unit tests and production builds have been executed. The final test counts and browser results are recorded in the delivery notes; CI configuration alone is not evidence that CI ran.
+Verified on 2026-10-01. [GitHub Actions run 36837322066](https://github.com/Lior41/labspace/actions/runs/36837322066) passed: TypeScript, ESLint, 11 unit tests, production build and desktop/mobile Chromium journeys (prediction, scientific result, notebook replay, age adaptation and activity-planner refusal).
 
-Native PostgreSQL is required to establish independent-connection contention behavior. PGlite runs a real PostgreSQL-derived engine locally but serializes transactions in one process. The local demo race is not a throughput benchmark.
+Local checks also passed. Local automated Chromium launch was blocked by the macOS sandbox; CI provides the browser execution evidence. Manual browser checks were performed separately.
 
-External provider credentials, an ASL expert review, and a deployed production environment are separate release gates. No paid service is enabled by default. Camera permission tests must use a synthetic browser fixture or explicit consent, never an unsuspecting user's camera.
+[Public deployment](https://lior-labspace.vercel.app) is on Vercel Hobby. The landing page and core interaction were checked after deployment. No paid provider is enabled.
+
+Docker was not executed. AI provider calls were not exercised; prewritten planning is active. Speech availability depends on locally installed browser voices.

@@ -1,0 +1,11 @@
+LABSPACE brings children and grown-ups together around a small scientific question. These are real application captures. No child account, public profile or date of birth is needed.
+
+Make a prediction, then launch the same ball on Earth and the Moon. A deterministic physics engine calculates both paths on a shared scale. A wrong first guess is welcome.
+
+The youngest children choose simple push buttons with a grown-up. Older explorers use more precise controls and measurements. Motion, pendulums and additive light each have documented assumptions.
+
+Keep a prediction, the calculated result and a personal observation in a local notebook. Reopen the experiment with the same settings. Discoveries stay in this browser unless exported.
+
+Create together selects a reviewed activity. By default this uses prewritten activities, clearly labeled. Optional AI may select an allowed module and preset; it never invents physics or executes generated code.
+
+The science functions, persistence and browser journeys are tested. This is a virtual laboratory, with simplified models and explicit limits. Little questions. Big discoveries. Together.

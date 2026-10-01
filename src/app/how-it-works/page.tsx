@@ -76,6 +76,8 @@ export default function Page() {
           Ask the planner for an unsupported volcano experiment and observe the honest refusal.
         </li>
       </ol>
+      <h2>Inspect the work</h2>
+      <p><a href="https://github.com/Lior41/labspace">Source code</a> · <a href="https://github.com/Lior41/labspace/tree/main/tests">Tests</a> · <a href="https://github.com/Lior41/labspace/actions">Verification runs</a> · <Link href="/demo-video">Captioned walkthrough</Link></p>
       <Link className="button primary" href="/explore/motion?age=4-6">
         Explore the demo ↗
       </Link>
