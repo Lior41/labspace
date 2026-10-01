@@ -6,6 +6,8 @@
 
 ![Actual application screenshot](docs/screenshots/home.png)
 
+Watch the [permanent Project Room](https://lior-labspace.vercel.app/project-room): all three projects, English and French, with playback controls, downloadable MP4 files and readable transcripts. It does not require a local server.
+
 ## Overview
 
 A virtual science lab for children and families. Predict, manipulate, compare, explain and keep a discovery. The 4–6, 7–10 and 10–14 experiences use different controls and levels of explanation.

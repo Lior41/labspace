@@ -1,0 +1,100 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.532
+Bienvenue dans SIGNBRIDGE. Cette vidéo montre des captures réelles du prototype. Le projet explore la
+
+00:00:05.532 --> 00:00:11.064
+communication en langue des signes américaine, appelée ASL. Il faut commencer par sa limite principale
+
+00:00:11.064 --> 00:00:16.596
+: cette version ne traduit pas encore les signes. Elle prépare une interface et documente
+
+00:00:16.596 --> 00:00:22.128
+ce qui manque pour une reconnaissance réelle.
+
+00:00:22.128 --> 00:00:27.340
+Dans le studio, la caméra est éteinte au départ. L’utilisateur doit choisir de l’activer. Il
+
+00:00:27.340 --> 00:00:32.553
+peut aussi ouvrir une courte vidéo locale. Dans cette version, les images ne sont pas
+
+00:00:32.553 --> 00:00:37.766
+envoyées à un serveur. Voir la vidéo dans l’interface ne signifie pas que le logiciel
+
+00:00:37.766 --> 00:00:42.979
+a compris son contenu.
+
+00:00:42.979 --> 00:00:49.362
+Le bouton de scénario propose un exemple préécrit. Le mot HELLO apparaît pour montrer comment
+
+00:00:49.362 --> 00:00:55.745
+une future suggestion pourrait être présentée. L’écran précise que ce texte ne vient pas d’un
+
+00:00:55.745 --> 00:01:02.128
+modèle. Pendant un entretien, ne présente jamais cet exemple comme une reconnaissance de ton geste.
+
+00:01:02.128 --> 00:01:08.511
+La personne peut refuser la suggestion. L’application indique alors qu’aucun sens n’a été supposé. Elle
+
+00:01:08.511 --> 00:01:14.894
+peut ensuite écrire ce qu’elle voulait dire. Ce contrôle humain est essentiel : une proposition
+
+00:01:14.894 --> 00:01:21.277
+incertaine ne doit pas devenir automatiquement une phrase affirmée à la place de la personne.
+
+00:01:21.277 --> 00:01:26.950
+Reconnaître un signe isolé, traduire une conversation continue et produire une réponse signée sont trois
+
+00:01:26.950 --> 00:01:32.624
+problèmes différents. Détecter une main ne suffit pas à comprendre l’ASL. Les expressions du visage,
+
+00:01:32.624 --> 00:01:38.298
+le mouvement et le contexte peuvent aussi participer au sens.
+
+00:01:38.298 --> 00:01:43.617
+Pour avancer, il faut un modèle et des données dont les droits permettent cet usage.
+
+00:01:43.617 --> 00:01:48.936
+Une ressource de recherche ne peut pas toujours être redistribuée dans un site public. La
+
+00:01:48.936 --> 00:01:54.255
+documentation recense ces contraintes. Aucune vidéo issue d’un jeu de données limité à la recherche
+
+00:01:54.255 --> 00:01:59.574
+n’a été intégrée par défaut.
+
+00:01:59.574 --> 00:02:05.000
+L’évaluation devra utiliser des personnes différentes de celles de l’entraînement. Elle devra mesurer les résultats
+
+00:02:05.000 --> 00:02:10.426
+par signe, les erreurs, les gestes inconnus et les cas où aucun signe n’est réalisé.
+
+00:02:10.426 --> 00:02:15.851
+Un score interne du modèle n’est pas une promesse de fiabilité. Il faut également mesurer
+
+00:02:15.851 --> 00:02:21.277
+la latence dans des conditions décrites.
+
+00:02:21.277 --> 00:02:26.277
+Les réponses vidéo devront être des phrases complètes, autorisées et validées par une personne compétente
+
+00:02:26.277 --> 00:02:31.277
+en ASL. Assembler des vidéos de mots ne garantit pas une phrase correcte. Cette bibliothèque
+
+00:02:31.277 --> 00:02:36.277
+n’est pas encore disponible. Le prototype ne remplace donc pas un interprète, particulièrement pour une
+
+00:02:36.277 --> 00:02:41.277
+situation importante.
+
+00:02:41.277 --> 00:02:47.234
+Pour ton entretien, présente ce projet comme une démarche de recherche responsable. Tu peux expliquer
+
+00:02:47.234 --> 00:02:53.191
+la confidentialité, le refus, la correction et les conditions de validation. Les tests actuels portent
+
+00:02:53.191 --> 00:02:59.149
+sur les contrats et les interactions, pas sur une précision linguistique. Ton exercice consiste à
+
+00:02:59.149 --> 00:03:05.106
+modifier la politique de refus et à vérifier ses tests synthétiques.
