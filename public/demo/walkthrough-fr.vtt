@@ -1,0 +1,97 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.383
+Bienvenue dans LABSPACE. Cette vidéo présente des captures réelles du laboratoire. Le projet permet à
+
+00:00:06.383 --> 00:00:12.766
+un enfant et à son parent de partager une petite découverte scientifique. Il n’est pas
+
+00:00:12.766 --> 00:00:19.149
+nécessaire de créer un compte. L’application demande seulement une tranche d’âge pour adapter les interactions.
+
+00:00:19.149 --> 00:00:24.894
+Le parcours commence par une question : où la même balle ira-t-elle le plus loin,
+
+00:00:24.894 --> 00:00:30.638
+sur la Terre ou sur la Lune ? L’enfant choisit une prédiction. Cette réponse ne
+
+00:00:30.638 --> 00:00:36.383
+donne pas une note. Même une idée incorrecte est utile, car elle permet de comparer
+
+00:00:36.383 --> 00:00:42.128
+ce que l’on imaginait avec ce que l’on observe.
+
+00:00:42.128 --> 00:00:47.447
+Ensuite, on choisit la force du lancement. Pour les quatre à six ans, de gros
+
+00:00:47.447 --> 00:00:52.766
+boutons proposent une petite ou une grande poussée. Pour les plus grands, des réglages plus
+
+00:00:52.766 --> 00:00:58.085
+précis et des mesures apparaissent. L’adaptation concerne donc ce que l’enfant peut faire, et pas
+
+00:00:58.085 --> 00:01:03.404
+seulement la taille du texte.
+
+00:01:03.404 --> 00:01:09.787
+Quand l’expérience se lance, les trajectoires viennent de calculs déterministes. Avec les mêmes paramètres, le
+
+00:01:09.787 --> 00:01:16.170
+moteur produit les mêmes résultats. Les deux trajectoires utilisent la même échelle. Le modèle suppose
+
+00:01:16.170 --> 00:01:22.553
+un sol plat, une gravité constante et aucune résistance de l’air. Ces limites sont affichées.
+
+00:01:22.553 --> 00:01:28.936
+La Lune attire moins fortement la balle. À poussée identique, la balle reste plus longtemps
+
+00:01:28.936 --> 00:01:35.319
+en l’air et va plus loin. Le rôle du parent est de demander : qu’as-tu
+
+00:01:35.319 --> 00:01:41.702
+remarqué ? Le résultat aide à ouvrir une conversation, sans transformer la découverte en compétition.
+
+00:01:41.702 --> 00:01:47.021
+Le carnet conserve la prédiction, les réglages, le résultat et une observation écrite. Il permet
+
+00:01:47.021 --> 00:01:52.340
+de reprendre les mêmes paramètres. Les données restent dans ce navigateur, sur cet appareil. Elles
+
+00:01:52.340 --> 00:01:57.660
+ne sont pas partagées avec les autres visiteurs. Un export permet d’en garder une copie
+
+00:01:57.660 --> 00:02:02.979
+avant de vider le navigateur.
+
+00:02:02.979 --> 00:02:08.936
+Le projet contient aussi un pendule et un atelier de lumière. Le pendule utilise une
+
+00:02:08.936 --> 00:02:14.894
+approximation valable pour de petits angles. L’atelier de couleur additionne des lumières : ce n’est
+
+00:02:14.894 --> 00:02:20.851
+pas le mélange de peintures. Les explications doivent respecter ces différences scientifiques.
+
+00:02:20.851 --> 00:02:26.383
+Create together aide un parent à choisir une activité. Sans clé de fournisseur, l’application sélectionne
+
+00:02:26.383 --> 00:02:31.915
+des activités préécrites et le dit clairement. L’option IA peut choisir un atelier et un
+
+00:02:31.915 --> 00:02:37.447
+réglage autorisé. Elle ne calcule pas les résultats, ne génère pas du code exécuté et
+
+00:02:37.447 --> 00:02:42.979
+ne propose pas de manipulation physique dangereuse.
+
+00:02:42.979 --> 00:02:48.298
+En entretien, montre la séparation entre l’interface, les calculs et le choix d’activité. Les tests
+
+00:02:48.298 --> 00:02:53.617
+vérifient les formules, les limites des paramètres et le carnet. Pour apprendre, modifie une explication
+
+00:02:53.617 --> 00:02:58.936
+adaptée à l’âge, puis ajoute un test scientifique simple. Explique toujours les hypothèses avant de
+
+00:02:58.936 --> 00:03:04.255
+présenter un résultat comme exact.

@@ -1,5 +1,7 @@
 # Préparer un entretien — LABSPACE
 
+[Regarder l’explication en français](../public/demo/walkthrough-fr.mp4) · [Lire son texte](../public/demo/walkthrough-fr.txt). Montage de captures réelles, avec explications intégrées, sans piste audio.
+
 ## Présentation d’environ trois minutes
 
 LABSPACE est un laboratoire virtuel pour les enfants et leurs parents. Son idée est de transformer une petite question en un moment partagé : on pose une question, on fait une prédiction, on manipule, puis on compare ce que l’on pensait avec ce que l’on observe. Une prédiction incorrecte n’est jamais punie.
