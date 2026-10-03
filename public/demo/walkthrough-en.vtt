@@ -1,40 +1,70 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:05.400
-LABSPACE brings children and grown-ups together around a small scientific question. These are real application
+00:00:00.280 --> 00:00:04.243
+Lab Space is a virtual science lab for families.
 
-00:00:05.400 --> 00:00:10.800
-captures. No child account, public profile or date of birth is needed.
+00:00:04.243 --> 00:00:06.445
+This is the ages-four-to-six experience:
 
-00:00:10.800 --> 00:00:16.800
-Make a prediction, then launch the same ball on Earth and the Moon. A deterministic
+00:00:06.445 --> 00:00:09.968
+simple controls, a prediction, and a shared discovery.
 
-00:00:16.800 --> 00:00:22.800
-physics engine calculates both paths on a shared scale. A wrong first guess is welcome.
+00:00:09.968 --> 00:00:11.729
+No account is needed.
 
-00:00:22.800 --> 00:00:28.200
-The youngest children choose simple push buttons with a grown-up. Older explorers use more precise
+00:00:12.480 --> 00:00:15.420
+Starting without a prediction shows a helpful reminder.
 
-00:00:28.200 --> 00:00:33.600
-controls and measurements. Motion, pendulums and additive light each have documented assumptions.
+00:00:15.420 --> 00:00:16.523
+I choose Earth.
 
-00:00:33.600 --> 00:00:39.200
-Keep a prediction, the calculated result and a personal observation in a local notebook. Reopen
+00:00:16.523 --> 00:00:18.360
+A prediction is not graded:
 
-00:00:39.200 --> 00:00:44.800
-the experiment with the same settings. Discoveries stay in this browser unless exported.
+00:00:18.360 --> 00:00:21.668
+it gives us something to compare with the observation.
 
-00:00:44.800 --> 00:00:48.933
-Create together selects a reviewed activity. By default this uses prewritten activities, clearly labeled. Optional
+00:00:22.480 --> 00:00:26.478
+Both balls launch with the same speed and angle.
 
-00:00:48.933 --> 00:00:53.067
-AI may select an allowed module and preset; it never invents physics or executes generated
+00:00:26.478 --> 00:00:27.811
+Only gravity changes.
 
-00:00:53.067 --> 00:00:57.200
-code.
+00:00:27.811 --> 00:00:31.364
+The Moon’s weaker pull gives a longer journey.
 
-00:00:57.200 --> 00:01:02.200
-The science functions, persistence and browser journeys are tested. This is a virtual laboratory, with
+00:00:31.364 --> 00:00:35.807
+The animation follows deterministic calculations, with air resistance left out.
 
-00:01:02.200 --> 00:01:07.200
-simplified models and explicit limits. Little questions. Big discoveries. Together.
+00:00:38.480 --> 00:00:41.000
+I save our observation in the notebook.
+
+00:00:41.000 --> 00:00:44.601
+It keeps the prediction, settings and result in this browser.
+
+00:00:44.601 --> 00:00:48.201
+It is a local family record, not a cross-device account.
+
+00:00:48.980 --> 00:00:55.698
+Reopening the settings and switching to ages ten to fourteen reveals numerical speed and angle controls.
+
+00:00:55.698 --> 00:00:59.896
+Older children can change one variable and compare another run.
+
+00:01:00.680 --> 00:01:06.296
+The grown-up planner offers a gravity activity with steps and a question to discuss.
+
+00:01:06.296 --> 00:01:08.703
+The visible badge says Prewritten activity.
+
+00:01:08.703 --> 00:01:13.516
+No AI provider is enabled here, and AI never invents the physics.
+
+00:01:14.380 --> 00:01:20.425
+Requesting a dinosaur DNA laboratory is refused because that module does not exist.
+
+00:01:20.425 --> 00:01:23.679
+The planner stays inside the available experiments:
+
+00:01:23.679 --> 00:01:26.469
+predict, try, observe, and explore again.

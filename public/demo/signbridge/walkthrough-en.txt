@@ -1,11 +1,11 @@
-SIGNBRIDGE explores assisted communication in American Sign Language. This is a captioned walkthrough of real application screens. The current release is a research interface, not a working ASL translator.
+Sign Bridge explores an interface for American Sign Language. This release does not recognize signs or translate conversations. It demonstrates local preview and a confirmation-and-correction workflow.
 
-Camera preview requires explicit activation. Short local videos can be played without upload. The walkthrough shown here uses a prewritten suggestion. No model recognized a sign.
+The camera starts off. A short local video can be previewed without uploading it. Size and duration limits are explicit. Previewing a clip does not analyze or translate it.
 
-The person can reject a suggestion and type a correction. Rejection does not invent a meaning or silently accept the prediction. Text remains in the current page.
+I open the prewritten scenario. Hello appears as an example suggestion. It was not inferred from a gesture, and the banner explicitly identifies it as not AI output.
 
-The output contract and abstention policy are tested with synthetic data. That does not establish recognition accuracy. There are no invented confidence scores or performance claims.
+I reject the suggestion. The interface confirms that no meaning was assumed. The person communicating stays in control instead of being forced to accept an interpretation.
 
-A compatible licensed model, signer-disjoint evaluation and qualified ASL review are required. Signed replies need authorized recordings of complete phrases. No such reply library is bundled yet.
+I type Please write your reply and add it to the walkthrough. The text stays in this page. Ending the walkthrough clears it; this is a manual correction, not an ASL translation.
 
-The project demonstrates accessible interaction, privacy controls and honest research boundaries. It is not a replacement for an interpreter. The repository documents exactly what is available and what remains blocked.
+The library lists the remaining work: an evaluated model and authorized full-phrase videos reviewed in ASL. Neither is available yet. This is an interface prototype with visible boundaries, not a working interpreter.

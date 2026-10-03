@@ -1,17 +1,11 @@
-Bienvenue dans SIGNBRIDGE. Cette vidéo montre des captures réelles du prototype. Le projet explore la communication en langue des signes américaine, appelée ASL. Il faut commencer par sa limite principale : cette version ne traduit pas encore les signes. Elle prépare une interface et documente ce qui manque pour une reconnaissance réelle.
+Voici Sign Bridge, un prototype d’interface consacré à la langue des signes américaine. Je précise la limite dès le départ : cette version ne reconnaît pas les signes et ne traduit pas une conversation. Elle permet de tester la prévisualisation et la manière de confirmer ou corriger une proposition.
 
-Dans le studio, la caméra est éteinte au départ. L’utilisateur doit choisir de l’activer. Il peut aussi ouvrir une courte vidéo locale. Dans cette version, les images ne sont pas envoyées à un serveur. Voir la vidéo dans l’interface ne signifie pas que le logiciel a compris son contenu.
+La caméra est désactivée au départ. On peut choisir un petit fichier vidéo pour le regarder localement, sans l’envoyer à un serveur. Les limites de taille et de durée sont affichées. Regarder cette vidéo ne déclenche aucune analyse : la prévisualisation et la reconnaissance sont deux fonctions différentes.
 
-Le bouton de scénario propose un exemple préécrit. Le mot HELLO apparaît pour montrer comment une future suggestion pourrait être présentée. L’écran précise que ce texte ne vient pas d’un modèle. Pendant un entretien, ne présente jamais cet exemple comme une reconnaissance de ton geste.
+J’ouvre maintenant un scénario préécrit. Le mot Hello apparaît comme exemple de proposition. Il n’a pas été déduit d’un geste : aucun modèle ne tourne. Le bandeau le précise pour qu’une démonstration d’interface ne soit jamais confondue avec une reconnaissance qui fonctionnerait réellement.
 
-La personne peut refuser la suggestion. L’application indique alors qu’aucun sens n’a été supposé. Elle peut ensuite écrire ce qu’elle voulait dire. Ce contrôle humain est essentiel : une proposition incertaine ne doit pas devenir automatiquement une phrase affirmée à la place de la personne.
+Je clique sur le bouton indiquant que ce n’est pas ce que je voulais dire. La proposition est rejetée et le site ne lui attribue plus de sens. Cette décision appartient à la personne qui communique : l’interface ne doit pas imposer une interprétation.
 
-Reconnaître un signe isolé, traduire une conversation continue et produire une réponse signée sont trois problèmes différents. Détecter une main ne suffit pas à comprendre l’ASL. Les expressions du visage, le mouvement et le contexte peuvent aussi participer au sens.
+J’écris plutôt : merci de répondre par écrit. Le message apparaît dans la conversation d’exemple. Il reste dans cette page et n’est pas enregistré dans un historique. Lorsque je termine le scénario, il disparaît. Cela permet de tester une correction, sans prétendre avoir traduit de l’ASL.
 
-Pour avancer, il faut un modèle et des données dont les droits permettent cet usage. Une ressource de recherche ne peut pas toujours être redistribuée dans un site public. La documentation recense ces contraintes. Aucune vidéo issue d’un jeu de données limité à la recherche n’a été intégrée par défaut.
-
-L’évaluation devra utiliser des personnes différentes de celles de l’entraînement. Elle devra mesurer les résultats par signe, les erreurs, les gestes inconnus et les cas où aucun signe n’est réalisé. Un score interne du modèle n’est pas une promesse de fiabilité. Il faut également mesurer la latence dans des conditions décrites.
-
-Les réponses vidéo devront être des phrases complètes, autorisées et validées par une personne compétente en ASL. Assembler des vidéos de mots ne garantit pas une phrase correcte. Cette bibliothèque n’est pas encore disponible. Le prototype ne remplace donc pas un interprète, particulièrement pour une situation importante.
-
-Pour ton entretien, présente ce projet comme une démarche de recherche responsable. Tu peux expliquer la confidentialité, le refus, la correction et les conditions de validation. Les tests actuels portent sur les contrats et les interactions, pas sur une précision linguistique. Ton exercice consiste à modifier la politique de refus et à vérifier ses tests synthétiques.
+La bibliothèque indique ce qui manque encore : un modèle évalué et des vidéos de phrases signées, autorisées et relues par une personne compétente en ASL. Il n’y a donc pas encore de réponse vidéo signée à montrer. Le résultat actuel est un prototype de parcours, avec ses limites visibles.

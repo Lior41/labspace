@@ -1,17 +1,13 @@
-Bienvenue dans LABSPACE. Cette vidéo présente des captures réelles du laboratoire. Le projet permet à un enfant et à son parent de partager une petite découverte scientifique. Il n’est pas nécessaire de créer un compte. L’application demande seulement une tranche d’âge pour adapter les interactions.
+Voici Lab Space, un laboratoire virtuel à explorer en famille. Je commence avec le parcours de quatre à six ans. Les commandes sont simples : l’enfant choisit une idée, le parent l’accompagne, puis ils observent ensemble. Aucun compte n’est nécessaire pour essayer.
 
-Le parcours commence par une question : où la même balle ira-t-elle le plus loin, sur la Terre ou sur la Lune ? L’enfant choisit une prédiction. Cette réponse ne donne pas une note. Même une idée incorrecte est utile, car elle permet de comparer ce que l’on imaginait avec ce que l’on observe.
+J’essaie de lancer sans répondre. L’application me rappelle de faire une prédiction. Je choisis volontairement la Terre. Il ne s’agit pas d’obtenir une bonne note : une hypothèse sert à comparer ce que l’on pensait avec ce que l’expérience montre réellement.
 
-Ensuite, on choisit la force du lancement. Pour les quatre à six ans, de gros boutons proposent une petite ou une grande poussée. Pour les plus grands, des réglages plus précis et des mesures apparaissent. L’adaptation concerne donc ce que l’enfant peut faire, et pas seulement la taille du texte.
+Je lance les deux balles avec la même vitesse et le même angle. Seule la gravité change. La balle va plus loin sur la Lune, où l’attraction est plus faible. L’animation suit des calculs réels. Ici, le modèle laisse de côté la résistance de l’air.
 
-Quand l’expérience se lance, les trajectoires viennent de calculs déterministes. Avec les mêmes paramètres, le moteur produit les mêmes résultats. Les deux trajectoires utilisent la même échelle. Le modèle suppose un sol plat, une gravité constante et aucune résistance de l’air. Ces limites sont affichées.
+J’écris ce que nous avons remarqué, puis je garde la découverte. Le carnet conserve notre prédiction, les paramètres et l’observation sur cet appareil. C’est une trace de l’activité à retrouver ensemble ; ce n’est pas un compte partagé entre plusieurs téléphones.
 
-La Lune attire moins fortement la balle. À poussée identique, la balle reste plus longtemps en l’air et va plus loin. Le rôle du parent est de demander : qu’as-tu remarqué ? Le résultat aide à ouvrir une conversation, sans transformer la découverte en compétition.
+Je rouvre les mêmes paramètres, puis je passe au parcours de dix à quatorze ans. Des réglages chiffrés apparaissent pour la vitesse et l’angle. L’enfant peut changer une variable et recommencer. L’adaptation à l’âge modifie donc les interactions, pas seulement la taille des lettres.
 
-Le carnet conserve la prédiction, les réglages, le résultat et une observation écrite. Il permet de reprendre les mêmes paramètres. Les données restent dans ce navigateur, sur cet appareil. Elles ne sont pas partagées avec les autres visiteurs. Un export permet d’en garder une copie avant de vider le navigateur.
+Dans l’espace parent, je demande une expérience sur la gravité et je confirme que je suis l’adulte accompagnant. Le site propose une activité avec des étapes et une question à poser ensemble. Aujourd’hui, ce plan est préécrit : le badge l’annonce. Aucune intelligence artificielle n’invente les résultats physiques.
 
-Le projet contient aussi un pendule et un atelier de lumière. Le pendule utilise une approximation valable pour de petits angles. L’atelier de couleur additionne des lumières : ce n’est pas le mélange de peintures. Les explications doivent respecter ces différences scientifiques.
-
-Create together aide un parent à choisir une activité. Sans clé de fournisseur, l’application sélectionne des activités préécrites et le dit clairement. L’option IA peut choisir un atelier et un réglage autorisé. Elle ne calcule pas les résultats, ne génère pas du code exécuté et ne propose pas de manipulation physique dangereuse.
-
-En entretien, montre la séparation entre l’interface, les calculs et le choix d’activité. Les tests vérifient les formules, les limites des paramètres et le carnet. Pour apprendre, modifie une explication adaptée à l’âge, puis ajoute un test scientifique simple. Explique toujours les hypothèses avant de présenter un résultat comme exact.
+Si je demande un laboratoire d’ADN de dinosaure, qui n’existe pas dans l’application, la demande est refusée. C’est une limite utile : le site propose uniquement ses expériences disponibles. Le parcours reste simple : imaginer, essayer, observer, garder une découverte, puis recommencer.

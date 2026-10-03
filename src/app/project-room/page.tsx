@@ -2,7 +2,8 @@ import { ProjectRoom } from "./project-room";
 
 export const metadata = {
   title: "Lior Lev — Project Room",
-  description: "Six captioned walkthroughs: SLOT, LABSPACE and SIGNBRIDGE, in English and French.",
+  description:
+    "Six narrated walkthroughs with captions: SLOT, LABSPACE and SIGNBRIDGE, in English and French.",
 };
 
 export default function Page() {
@@ -15,8 +16,9 @@ export default function Page() {
         One place to explore.
       </h1>
       <p>
-        Choose a project and press Play. English overviews for a first look; French explanations for
-        learning. These videos stay available when the developer’s computer is off.
+        Choose a project and press Play to hear the explanation. English overviews for a first look;
+        French explanations for learning. These narrated demos include captions and stay available
+        when the developer’s computer is off.
       </p>
       <ProjectRoom />
     </article>

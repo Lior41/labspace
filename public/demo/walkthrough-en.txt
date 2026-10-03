@@ -1,11 +1,13 @@
-LABSPACE brings children and grown-ups together around a small scientific question. These are real application captures. No child account, public profile or date of birth is needed.
+Lab Space is a virtual science lab for families. This is the ages-four-to-six experience: simple controls, a prediction, and a shared discovery. No account is needed.
 
-Make a prediction, then launch the same ball on Earth and the Moon. A deterministic physics engine calculates both paths on a shared scale. A wrong first guess is welcome.
+Starting without a prediction shows a helpful reminder. I choose Earth. A prediction is not graded: it gives us something to compare with the observation.
 
-The youngest children choose simple push buttons with a grown-up. Older explorers use more precise controls and measurements. Motion, pendulums and additive light each have documented assumptions.
+Both balls launch with the same speed and angle. Only gravity changes. The Moon’s weaker pull gives a longer journey. The animation follows deterministic calculations, with air resistance left out.
 
-Keep a prediction, the calculated result and a personal observation in a local notebook. Reopen the experiment with the same settings. Discoveries stay in this browser unless exported.
+I save our observation in the notebook. It keeps the prediction, settings and result in this browser. It is a local family record, not a cross-device account.
 
-Create together selects a reviewed activity. By default this uses prewritten activities, clearly labeled. Optional AI may select an allowed module and preset; it never invents physics or executes generated code.
+Reopening the settings and switching to ages ten to fourteen reveals numerical speed and angle controls. Older children can change one variable and compare another run.
 
-The science functions, persistence and browser journeys are tested. This is a virtual laboratory, with simplified models and explicit limits. Little questions. Big discoveries. Together.
+The grown-up planner offers a gravity activity with steps and a question to discuss. The visible badge says Prewritten activity. No AI provider is enabled here, and AI never invents the physics.
+
+Requesting a dinosaur DNA laboratory is refused because that module does not exist. The planner stays inside the available experiments: predict, try, observe, and explore again.
